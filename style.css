@@ -1,0 +1,11 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 420px;
+}
+.card{
+    margin: 2px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
